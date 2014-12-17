@@ -4,6 +4,7 @@
   "author": "Dane Grant <danecando@gmail.com>",
   "description": "A Ghost Theme Boilerplate with all the Grunt bells & whistles",
   "license": "MIT",
+  "repository": "https://github.com/danecando/ghunt",
   "devDependencies": {
     "bower": "",
     "grunt": "^0.4.4",
